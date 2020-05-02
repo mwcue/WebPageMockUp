@@ -1,0 +1,67 @@
+	div.linetop
+	{
+	    height: 2px;
+	    width: 100%;
+	    background-color: #0D4B6E;
+	}
+	div.linebottom
+	{
+	    height: 5px;
+	    width: 100%;
+	    background-color: #0D4B6E;
+	}
+
+     .custom1 {
+	font-family: Helvetica Neue, sans-serif;
+        font-size: 28pt; 
+
+        font-weight: bold;
+	color: #3D3D3D;
+      }
+     .custom2 {
+	font-family: Helvetica Neue, sans-serif;
+        font-size: 28pt; 
+
+        font-weight: light;
+	color: #3D3D3D;
+      }
+     .custom3 {
+	font-family: Helvetica Neue, sans-serif;
+        font-size: 24pt; 
+
+        font-weight: light;
+	color: #3D3D3D;
+      }
+     .custom4 {
+	font-family: Helvetica Neue, sans-serif;
+        font-size: 18pt; 
+
+        font-weight: light;
+	color: #3D3D3D;
+      }
+     .custom5 {
+	font-family: Baskerville, serif;
+        font-size: 24pt; 
+        font-style: italic;
+	color: #BB1F25;
+      }
+
+
+ 	.my-5{
+          margin-top: ($spacer * 3);
+          margin-bottom: ($spacer * 3);
+	 }
+
+
+      .footer {
+          background-color: #3D3D3D;
+          color: #eeeeee;
+          border-top: 1px solid red;
+          height: 60px;  /* footer height */
+          padding-top: 20px;
+          display: block;
+          margin-top: 20px; /* space between content and footer */
+          box-sizing: border-box;
+          position: relative;
+          width: 100%;
+      }
